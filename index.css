@@ -1,6 +1,6 @@
 .logo {
   color: #0a1b32;
-  font-family: 'Circular Std';
+  font-family: "Circular Std";
   font-size: 30px;
   font-style: normal;
   font-weight: 900;
@@ -16,7 +16,7 @@
 
 .dot {
   color: #824ff1;
-  font-family: 'Circular Std';
+  font-family: "Circular Std";
   font-size: 30px;
   font-style: normal;
   font-weight: 900;
@@ -55,12 +55,10 @@
   margin-right: 40px;
   margin-left: 752px;
   flex-shrink: 0;
-
-  
 }
 
 .up {
-  max-width:120px;
+  max-width: 120px;
   width: 100%;
   height: 59.651px;
   flex-shrink: 0;
@@ -76,59 +74,56 @@
   letter-spacing: 0.32px;
 }
 
-.main-title{
-  color: #1B0A42;
-  font-family: 'Ramaraja', serif;
-font-size: 40px;
-font-style: normal;
-font-weight: 400px;
-line-height: 76px; /* 105.556% */
-letter-spacing: 1.44px;
-max-width: 495px;
-width: 100%;
-margin-left: 200px;
-margin-top: 280px;
+.main-title {
+  color: #1b0a42;
+  font-family: "Ramaraja", serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 76px; /* 105.556% */
+  letter-spacing: 1.44px;
+  max-width: 495px;
+  width: 100%;
+  margin-left: 200px;
+  margin-top: 280px;
 }
 
-.learn{
+.learn {
   width: 152px;
-height: 63.818px;
-flex-shrink: 0;
-border-radius: 6px;
-background-color: #824FF1;
-color: white;
-margin-left: 200px;
-margin-top: 50px;
-width: 152px;
-height: 64px;
-border: none;
+  height: 63.818px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: #824ff1;
+  color: white;
+  margin-left: 200px;
+  margin-top: 50px;
+  width: 152px;
+  height: 64px;
+  border: none;
 }
 
-section{
+section {
   display: inline-block;
 }
 
-.yoga-photo{
+.yoga-photo {
   max-width: 658px;
   width: 100%;
-  
 }
 
-.main-paragrhaper{
-  color: #9A9A9A;
-  font-family: 'Roboto', sans-serif;
+.main-paragrhaper {
+  color: #9a9a9a;
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
-letter-spacing: 0.4px;
-max-width: 590px;
-width: 100%;
-margin-left: 200px;
-margin-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+  letter-spacing: 0.4px;
+  max-width: 590px;
+  width: 100%;
+  margin-left: 200px;
+  margin-top: 10px;
 }
-
-
 
 .upper-part {
   display: flex;
